@@ -38,4 +38,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 2. ```cd``` into directory and run ```npm install```
 3. Run ```npm start```
 
- "https://courses.bootcampspot.com/courses/235/files/139720/download"
+[https://courses.bootcampspot.com/courses/235/files/139720/download]
